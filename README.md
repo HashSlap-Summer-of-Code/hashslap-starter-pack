@@ -35,8 +35,8 @@ Follow these steps to get started with open-source contributions:
 ## 🌐 Get Involved
 
 - **Join the HashSlap Summer of Code**: Our annual event (June 16, 2025 – August 16, 2025) offers mentorship and rewards for contributors. Learn more in [What is Open Source?](docs/01_intro_to_oss.md).
-- **Say Hi on Discord**: Connect with the community on our [Discord server](https://discord.gg/hashslap) in the `#introductions` channel.
-- **Follow Us**: Stay updated on [GitHub](https://github.com/s5hmmAMeTD).
+- **Say Hi on Discord**: Connect with the community on our [Discord server](https://discord.gg/s5hmmAMeTD) in the `#introductions` channel.
+- **Follow Us**: Stay updated on [GitHub](https://github.com/hashslap).
 - **Questions?**: Open an issue or ask on Discord!
 
 **Start your open-source journey today! 🚀**
