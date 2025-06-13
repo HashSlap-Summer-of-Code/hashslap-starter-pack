@@ -15,6 +15,6 @@ Browse our projects and find one that matches your skills! All projects are tagg
 
 1. Browse [HelloGitHub](https://hellogithub.com) for inspiration.
 2. Pick a project and check its `README.md`.
-3. Claim an issue on GitHub or ask on [Discord](https://discord.gg/hashslap).
+3. Claim an issue on GitHub or ask on [Discord](https://discord.gg/s5hmmAMeTD).
 
 *Have a project idea? Open an issue in this repo!*
