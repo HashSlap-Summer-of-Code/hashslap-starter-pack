@@ -1,1 +1,0 @@
-# hashslap-starter-pack
