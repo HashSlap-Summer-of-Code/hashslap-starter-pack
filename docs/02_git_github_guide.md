@@ -20,7 +20,7 @@ This guide helps you get started with Git and GitHub to contribute to HashSlap p
 
 ## 📜 Visual Git Cheat Sheet
 
-![Git Cheat Sheet](assets/git_cheat_sheet.png)
+![Git Cheat Sheet](assets/git-cheat-sheet.png)
 
 ## 🔗 Resources
 
