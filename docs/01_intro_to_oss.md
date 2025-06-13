@@ -42,7 +42,7 @@ Think open source is only for pros? Think again!
 Ready to dive in? The HashSlap Summer of Code is your launchpad:  
 - **Explore Projects**: Check our [Project Directory](03_project_directory.md).  
 - **Learn Git**: Follow our [Git Guide](02_git_github_guide.md).  
-- **Join Us**: Say hi on [Discord](https://discord.gg/hashslap) and submit a practice PR.  
+- **Join Us**: Say hi on [Discord](https://discord.gg/s5hmmAMeTD) and submit a practice PR.  
 - **Resources**: Visit [opensource.guide](https://opensource.guide) for more tips.
 
 **You’re one commit away from being an OSS contributor! Let’s code together!** 💻
