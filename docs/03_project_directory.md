@@ -13,8 +13,7 @@ Browse our projects and find one that matches your skills! All projects are tagg
 
 ## 🛠 How to Join
 
-1. Browse [HelloGitHub](https://hellogithub.com) for inspiration.
-2. Pick a project and check its `README.md`.
-3. Claim an issue on GitHub or ask on [Discord](https://discord.gg/s5hmmAMeTD).
+1. Pick a project and check its `README.md`.
+2. Claim an issue on GitHub or ask on [Discord](https://discord.gg/s5hmmAMeTD).
 
 *Have a project idea? Open an issue in this repo!*
