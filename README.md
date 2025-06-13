@@ -1,4 +1,4 @@
-# 🛠 HashSlap Starter Pack
+# 🛠 HashSlap Summer of Code: Starter Pack
 
 Welcome to the **HashSlap Starter Pack** — your go-to toolkit for diving into open-source software (OSS)! This repository is designed for beginners to learn, practice, and contribute to open-source projects with confidence. Whether you're preparing for the HashSlap Summer of Code or just exploring OSS, we’ve got everything you need to get started.
 
