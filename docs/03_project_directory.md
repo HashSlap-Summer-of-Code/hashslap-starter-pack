@@ -11,6 +11,8 @@ Browse our projects and find one that matches your skills! All projects are tagg
 | Bash: SysMonitor | Monitor system resources | `Beginner`, `Bash`, `Linux` | [View Issues](https://github.com/hashslap/sysmonitor/issues) |
 | Automation: FileSorter | Sort files by type | `Beginner`, `Python`, `Automation` | [View Issues](https://github.com/hashslap/filesorter/issues) |
 
+More Coming Soon! 
+
 ## 🛠 How to Join
 
 1. Pick a project and check its `README.md`.
