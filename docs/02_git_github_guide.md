@@ -25,5 +25,4 @@ This guide helps you get started with Git and GitHub to contribute to HashSlap p
 ## 🔗 Resources
 
 - [Learn Git Branching](https://learngitbranching.js.org/)  
-- [First Contributions](https://firstcontributions.github.io/)  
 - Practice pull requests in our [practice repository](../practice_repo/README.md)
