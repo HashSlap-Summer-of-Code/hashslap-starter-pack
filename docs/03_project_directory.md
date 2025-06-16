@@ -45,7 +45,7 @@ For contributors ready to tackle full-featured apps:
 ---
 
 All projects—beginner through advanced—are listed under the `projects/` section in the **Starterpack Documentation**:  
-👉 [Starterpack ➤ Project Directory]([https://hashslap.github.io/hssoc/#/projects](https://github.com/HashSlap-Summer-of-Code/hashslap-starter-pack/blob/main/docs/03_project_directory.md))
+👉 [Starterpack ➤ Project Directory](https://hashslap.github.io/hssoc/#/projects][https://github.com/HashSlap-Summer-of-Code/hashslap-starter-pack/blob/main/docs/03_project_directory.md])
 
 ---
 
