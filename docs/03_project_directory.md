@@ -11,6 +11,7 @@ Perfect for your first open-source contribution:
 - **dev-scope** — A simple web app allowing developers to showcase their GitHub profiles. Great for HTML/JS beginners.  
 - **py-vault** — A Python script collection for tools, automation, and utilities—excellent for early CLI experience.  
 - **algorithms** — Classic data structures and algorithm implementations across languages; perfect for new programmers.
+- **idea-forge** — A collaborative vault of beginner-friendly project ideas across domains to inspire your next open-source contribution.
 
 ---
 
@@ -21,6 +22,7 @@ Grow your skills and build useful tools:
 - **scraping-scripts** — Web scrapers targeting news, e-commerce, YouTube, etc., using Python.  
 - **windows-automation** — PowerShell/Bat/Python scripts to automate Windows workflows.  
 - **cipher-vault** — Classic and modern ciphers in Python—learn cryptography concepts.
+- **launch-base** — A collection of beginner-level project boilerplates
 
 ---
 
