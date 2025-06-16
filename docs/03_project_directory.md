@@ -1,21 +1,53 @@
-# 🔥 HashSlap Project Directory
+# 📂 Project Directory
 
-Browse our projects and find one that matches your skills! All projects are tagged for easy filtering.
+This directory lists repositories for all skill levels—from total beginner-friendly to advanced—designed to help you find and contribute to projects that suit your experience.
 
-## 📋 Project List
+---
 
-| Project Name | Description | Tags | Issues |
-|--------------|-------------|------|--------|
-| CLI Tool: Tasker | A simple task management CLI | `Beginner`, `Python`, `CLI` | [View Issues](https://github.com/hashslap/tasker/issues) |
-| Python Scraper: NewsBot | Scrape news headlines | `Intermediate`, `Python`, `Scraping` | [View Issues](https://github.com/hashslap/newsbot/issues) |
-| Bash: SysMonitor | Monitor system resources | `Beginner`, `Bash`, `Linux` | [View Issues](https://github.com/hashslap/sysmonitor/issues) |
-| Automation: FileSorter | Sort files by type | `Beginner`, `Python`, `Automation` | [View Issues](https://github.com/hashslap/filesorter/issues) |
+## 🎯 Beginner-Friendly Projects  
+Perfect for your first open-source contribution:
 
-More Coming Soon! 
+- **hello-world** — "Hello, World!" programs in multiple languages. Ideal for your first PR.  
+- **dev-scope** — A simple web app allowing developers to showcase their GitHub profiles. Great for HTML/JS beginners.  
+- **py-vault** — A Python script collection for tools, automation, and utilities—excellent for early CLI experience.  
+- **algorithms** — Classic data structures and algorithm implementations across languages; perfect for new programmers.
 
-## 🛠 How to Join
+---
 
-1. Pick a project and check its `README.md`.
-2. Claim an issue on GitHub or ask on [Discord](https://discord.gg/s5hmmAMeTD).
+## 🔧 Intermediate Projects  
+Grow your skills and build useful tools:
 
-*Have a project idea? Open an issue in this repo!*
+- **bash-scripts** — Shell scripts for automating everyday tasks.  
+- **scraping-scripts** — Web scrapers targeting news, e-commerce, YouTube, etc., using Python.  
+- **windows-automation** — PowerShell/Bat/Python scripts to automate Windows workflows.  
+- **cipher-vault** — Classic and modern ciphers in Python—learn cryptography concepts.
+
+---
+
+## 🚀 Advanced Projects  
+For contributors ready to tackle full-featured apps:
+
+- **code-vault** — Secure, terminal-based snippet manager with encryption and search functionality.  
+- **task-trek** — CLI task and time management tool with priority, scheduling, and notifications.
+
+---
+
+## 🚀 How to Get Started
+
+1. Browse through the catalogs above and pick a repo based on your level.  
+2. **Star** the repository to show support.  
+3. Fork it, then clone it to your local environment.  
+4. Read the `CONTRIBUTING.md` file.  
+5. Choose and claim an issue—ideal labels include **good first issue**, **feature**, or **bug**.  
+6. Build, test, and submit a Pull Request with a clear description.  
+7. Join the Discord (`#help` channel) if you have questions along the way.
+
+---
+
+All projects—beginner through advanced—are listed under the `projects/` section in the **Starterpack Documentation**:  
+👉 [Starterpack ➤ Project Directory](https://hashslap.github.io/hssoc/#/projects)
+
+---
+
+**Happy coding and contribution!** 💚  
+*— Team HashSlap Summer of Code*
