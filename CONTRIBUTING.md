@@ -103,9 +103,9 @@ def sort_files(directory):
 
 ## 🌐 Community Support
 
-- **Join Discord**: Ask questions or share ideas in our [Discord server](https://discord.gg/hashslap).
+- **Join Discord**: Ask questions or share ideas in our [Discord server](https://discord.gg/s5hmmAMeTD).
 - **Open an Issue**: If you’re stuck, open an issue in this repo or the project’s repo.
-- **Practice First**: Try a dummy PR in our [practice repo](practice_repo/README.md) to get comfortable.
+- **Practice First**: Try a dummy PR in our [practice repo](first-contributors/README.md) to get comfortable.
 
 ## ✅ Code of Conduct
 
